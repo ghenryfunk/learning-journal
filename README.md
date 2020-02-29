@@ -2,9 +2,12 @@
 
 
 ### Table of Contents
+- [Growth Mindset](growth-mindset.md)
 - [Markdown](markdown.md)
 - [Computer Setup](computer-setup.md)
 - [Git v Github](git-github.md)
+- [HTML Notes](html-notes.md)
+- [CSS Notes](css-notes.md)
 
 ## Markdown Notes
 - a hashtag creates a H1 Heading
